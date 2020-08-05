@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1596151854064" stop="1596151864290" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login from Messenger Page</name>
+    <title>Verify invalid login from Messenger Page</title>
+    <test-cases>
+        <test-case start="1596151854376" stop="1596151854384" status="passed">
+            <name>Given I am on Messenger Page</name>
+            <title>Given I am on Messenger Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EACC33"/>
+                <label name="thread" value="4212@EACC33.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596151856376" stop="1596151856376" status="passed">
+            <name>When I enter unalaby@gmail.com into username field on the messenger page</name>
+            <title>When I enter unalaby@gmail.com into username field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EACC33"/>
+                <label name="thread" value="4212@EACC33.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596151856510" stop="1596151856510" status="passed">
+            <name>And I enter test123 into password field on the messenger page</name>
+            <title>And I enter test123 into password field on the messenger page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EACC33"/>
+                <label name="thread" value="4212@EACC33.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596151860855" stop="1596151860855" status="passed">
+            <name>And I click on login button on Messenger Page</name>
+            <title>And I click on login button on Messenger Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EACC33"/>
+                <label name="thread" value="4212@EACC33.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1596151861166" stop="1596151861166" status="passed">
+            <name>Then I verify invalid  login message on sign in page</name>
+            <title>Then I verify invalid  login message on sign in page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="EACC33"/>
+                <label name="thread" value="4212@EACC33.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login from Messenger Page"/>
+        <label name="feature" value="Messenger Page Feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

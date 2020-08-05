@@ -1,0 +1,8 @@
+runnerTest\TestRunner.class
+runnerTest\webPages\ElementUtil.class
+stepDefinition\SharedSD.class
+runnerTest\webPages\ElementUtil$1.class
+runnerTest\webPages\MessengerPage.class
+utils\ConfigReader.class
+stepDefinition\MessengerPageSD.class
+utils\BasePage.class
