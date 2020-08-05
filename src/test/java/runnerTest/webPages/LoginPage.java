@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 
 public class LoginPage extends ElementUtil{
 
-    // Locators
+    // Locators first
 
     private By emailTextField = By.id("email");
     private By passwordField = By.id("pass");
