@@ -2,7 +2,7 @@ package runnerTest.webPages;
 
 import org.openqa.selenium.By;
 
-public class LoginPage extends ElementUtil{
+public class LoginPage extends ElementUtil {
 
     // Locators first
 
@@ -13,19 +13,19 @@ public class LoginPage extends ElementUtil{
 
     // Actions
 
-    public void enterEmail(String enterEmail){
+    public void enterEmail(String enterEmail) {
         sendValue(emailTextField, enterEmail);
     }
 
-    public void enterPassword(String enterPassword){
+    public void enterPassword(String enterPassword) {
         sendValue(passwordField, enterPassword);
     }
 
-    public void clickOnLogin(){
+    public void clickOnLogin() {
         clickOn(loginButton);
     }
 
-    public String getTextElement(){
+    public String getTextElement() {
         return getTextFromElement(errorMessage);
     }
 }

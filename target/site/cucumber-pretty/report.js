@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 46854644700,
+  "duration": 24619902100,
   "status": "passed"
 });
 formatter.background({
@@ -32,7 +32,7 @@ formatter.match({
   "location": "MessengerPageSD.setMessengerPage()"
 });
 formatter.result({
-  "duration": 11012834700,
+  "duration": 4624878400,
   "status": "passed"
 });
 formatter.scenario({
@@ -83,7 +83,7 @@ formatter.match({
   "location": "MessengerPageSD.enterDataIntoTextFile(String,String)"
 });
 formatter.result({
-  "duration": 1125714600,
+  "duration": 686754100,
   "status": "passed"
 });
 formatter.match({
@@ -100,25 +100,25 @@ formatter.match({
   "location": "MessengerPageSD.enterDataIntoTextFile(String,String)"
 });
 formatter.result({
-  "duration": 118561600,
+  "duration": 136233000,
   "status": "passed"
 });
 formatter.match({
   "location": "MessengerPageSD.clickOnSignInButton()"
 });
 formatter.result({
-  "duration": 4333280800,
+  "duration": 1830938300,
   "status": "passed"
 });
 formatter.match({
   "location": "MessengerPageSD.verifySignInErrorMessage()"
 });
 formatter.result({
-  "duration": 302577600,
+  "duration": 73449800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3103304300,
+  "duration": 3280755300,
   "status": "passed"
 });
 });

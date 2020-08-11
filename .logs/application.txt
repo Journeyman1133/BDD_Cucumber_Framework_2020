@@ -278,3 +278,8 @@
 2020-07-30 19:31:01,173  INFO [main] SharedSD:35 - Cleanup...!
 2020-07-30 19:31:01,174  INFO [main] SharedSD:36 - Test was completed
 2020-07-30 19:31:01,174  INFO [main] SharedSD:38 - *******************
+2020-08-11 17:58:07,409  INFO [main] SharedSD:20 - ***************************
+2020-08-11 17:58:07,470  INFO [main] SharedSD:21 - Test is starting.......!
+2020-08-11 17:58:38,765  INFO [main] SharedSD:35 - Cleanup...!
+2020-08-11 17:58:38,766  INFO [main] SharedSD:36 - Test was completed
+2020-08-11 17:58:38,767  INFO [main] SharedSD:38 - *******************
